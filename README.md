@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JS and Lua more in depth, soon C#**
 
-- 📫 How to reach me **Peace#9790**
+- 📫 How to reach me (Discord) **aespeace**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
